@@ -33,3 +33,6 @@ The implementation workflow for this project is given below:
 
 <img width="324" alt="tic" src="https://user-images.githubusercontent.com/104501858/187399113-69d13b96-a646-499b-95c1-7407cd13a162.png">
 
+<img width="308" alt="tic" src="https://user-images.githubusercontent.com/104501858/187399724-53941f8e-cbdb-418d-8c57-10548797996f.png">
+
+
